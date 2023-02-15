@@ -2,6 +2,19 @@
 
 Úvod do softwarového inženýrství týmový projekt - komplexní model informačního systému 
 
+## Členové týmu
+
+Elena Marochkina https://github.com/LenaMarochkina
+
+Mark Barali https://github.com/Drakorgaur
+
+Maxim Kalutsky https://github.com/Defancet
+
+Nick Settler https://github.com/NickSettler
+
+Nikita Pasynkov https://github.com/pasynkovnikita
+
+
 ## Zadání (neformální specifikace)
 Zadání projektu obsahuje neformální specifikaci systému. Neformální specifikaci je možno rozšířit nebo v opodstatněném případě si může student neformální specifikaci upravit. Úprava neformální specifikace nesmí vést k redukci složitost zadání!
 
